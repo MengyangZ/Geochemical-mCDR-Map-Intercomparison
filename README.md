@@ -10,3 +10,12 @@ This repository contains the analysis workflow for model experiments conducted w
 ## Data availability
 
 The data used to generate the figures are archived on Zenodo (~4.4 GB, too large for GitHub): see [`data/README.md`](data/README.md) for the DOI and instructions.
+
+## Environment
+
+The notebooks were run with the conda environment specified in [`mcdr-atlas.yml`](mcdr-atlas.yml):
+
+```
+conda env create -f mcdr-atlas.yml
+conda activate mcdr-atlas
+```

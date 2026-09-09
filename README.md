@@ -1,15 +1,15 @@
 # Geochemical-mCDR-Map-Intercomparison
 
-This repository contains the analysis workflow for model experiments conducted with CESM, exploring global variations in the efficiency of ocean-based geochemical carbon dioxide removal (CDR), including Ocean Alkalinity Enhancement (OAE) and Direct Ocean Removal (DOR).
+This repository contains the analysis workflow for mapping global variations in Direct Ocean Removal (DOR) efficiency, and its comparison with Ocean Alkalinity Enhancement (OAE) efficiency. The combination of OAE and DOR simulations are used to quantify simultaneous alkalinity and DIC perturbations (ADA), enabling direct assessment of the oceanic fate of ADA perturbations from approaches like enhanced rock weathering, riverine alkalinity enhancement, and accelerated limestone weathering.
 
 ## Repository structure
 
 - [`analysis/`](analysis) — notebooks and Python modules used to reproduce the manuscript figures.
-- [`data/`](data) — expected location for model output/intermediate data used by the notebooks; see [`data/README.md`](data/README.md) for the Zenodo download link and expected layout.
+- [`data/`](data) — expected location for analysis data used by the notebooks; see [`data/README.md`](data/README.md) for the Zenodo download link and expected layout.
 
 ## Data availability
 
-The data used to generate the figures are archived on Zenodo (~4.4 GB, too large for GitHub): see [`data/README.md`](data/README.md) for the DOI and instructions.
+The data used to generate the figures are archived on Zenodo (~4.4 GB): see [`data/README.md`](data/README.md) for the DOI and instructions.
 
 ## Environment
 

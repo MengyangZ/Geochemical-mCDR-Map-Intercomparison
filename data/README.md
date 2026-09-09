@@ -1,8 +1,8 @@
 # Data
 
-The model output and intermediate data used by the notebooks in [`analysis/`](../analysis) (~4.4 GB total) are archived on Zenodo rather than stored in this repository, since several files exceed GitHub's file size limits:
+The model output and intermediate data used by the notebooks in [`analysis/`](../analysis) (~4.4 GB total) are archived on Zenodo:
 
-**Zenodo DOI: [10.5281/zenodo.22666772](https://doi.org/10.5281/zenodo.22666772)** (concept DOI — always resolves to the latest version)
+**Zenodo DOI: [10.5281/zenodo.22666772](https://doi.org/10.5281/zenodo.22666772)**
 
 Download the archive and unpack it here so the directory looks like:
 
